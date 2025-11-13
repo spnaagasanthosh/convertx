@@ -1,8 +1,3 @@
- '''Streamlit front-end to convert Oracle SQL/PLSQL to Databricks-ready code
-  using a Databricks Serving Endpoint (LLM). Requires `streamlit` and
-  `databricks-sdk`.'''
-  
-
 import base64
 import os
 from dataclasses import dataclass
