@@ -1,0 +1,1 @@
+Testing code converter from Oracle to Databricks (Only DDL)
